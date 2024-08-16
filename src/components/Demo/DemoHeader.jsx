@@ -23,7 +23,7 @@ const DemoHeader = () => {
         <Link to={"/"}>
           <img
             className="h-[2.5rem]"
-            src="./public/icon.png"
+            src="./icon.png"
             alt="logo"
           />
         </Link>
