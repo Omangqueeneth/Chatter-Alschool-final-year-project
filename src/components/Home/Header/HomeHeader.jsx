@@ -53,7 +53,7 @@ const HomeHeader = () => {
         <div className="flex items-center gap-3">
           <Link to={"/"}>
             <span className="text-5xl">
-              <img src="/public/icon.png" className="h-12 w-12" alt="" />
+              <img src="./public/icon.png" className="h-12 w-12" alt="" />
             </span>
           </Link>
           <Search modal={searchModal} setModal={setSearchModal} />
